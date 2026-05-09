@@ -34,7 +34,3 @@ This repository serves as a verified portfolio of my professional certifications
 | Docker Training Course for the Absolute Beginner | KodeKloud | [View](./assets/devops/KobeKloud%20-%20Docker%20Training.pdf) |
 
 ---
-
-### 🎖️ Verified Certifications
-<!-- START_SECTION:badges -->
-<!-- END_SECTION:badges -->
