@@ -8,10 +8,10 @@ This repository serves as a verified portfolio of my professional certifications
 
 | Certificate Name | Issuer | Verification |
 | :--- | :--- | :---: |
-| Supervised Machine Learning: Regression and Classification | Stanford / DL.AI | [View](./assets/stanford/Coursera 2M8Y6KVACWCN.pdf) |
-| Advanced Learning Algorithms | Stanford / DL.AI | [View](./assets/stanford/Coursera XGUEQRD9IL53.pdf) |
-| Unsupervised Learning, Recommenders, Reinforcement Learning | Stanford / DL.AI | [View](./assets/stanford/Coursera 74OLOK7O4GG2.pdf) |
-| Neural Networks and Deep Learning | DeepLearning.AI | [View](./assets/stanford/Coursera MB1901TQOOXL.pdf) |
+| Supervised Machine Learning: Regression and Classification | Stanford / DL.AI | [View](./assets/stanford/Coursera%202M8Y6KVACWCN.pdf) |
+| Advanced Learning Algorithms | Stanford / DL.AI | [View](./assets/stanford/Coursera%20XGUEQRD9IL53.pdf) |
+| Unsupervised Learning, Recommenders, Reinforcement Learning | Stanford / DL.AI | [View](./assets/stanford/Coursera%2074OLOK7O4GG2.pdf) |
+| Neural Networks and Deep Learning | DeepLearning.AI | [View](./assets/stanford/Coursera%20MB1901TQOOXL.pdf) |
 
 ---
 
@@ -19,11 +19,11 @@ This repository serves as a verified portfolio of my professional certifications
 
 | Certificate Name | Issuer | Verification |
 | :--- | :--- | :---: |
-| Deep Learning with PyTorch | IBM | [View](./assets/ibm/Coursera QFF25B5F803I.pdf) |
-| Machine Learning with Python | IBM | [View](./assets/ibm/Coursera WCZCDDFTHVSC.pdf) |
-| Deep Learning with Keras and TensorFlow | IBM | [View](./assets/ibm/Coursera ZWMFZU5RQ7M7.pdf) |
-| Introduction to Neural Networks and PyTorch | IBM | [View](./assets/ibm/Coursera 62ON4TGSHYYZ.pdf) |
-| Introduction to Deep Learning & Neural Networks with Keras | IBM | [View](./assets/ibm/Coursera WK40ZAUFNVZU.pdf) |
+| Deep Learning with PyTorch | IBM | [View](./assets/ibm/Coursera%20QFF25B5F803I.pdf) |
+| Machine Learning with Python | IBM | [View](./assets/ibm/Coursera%20WCZCDDFTHVSC.pdf) |
+| Deep Learning with Keras and TensorFlow | IBM | [View](./assets/ibm/Coursera%20ZWMFZU5RQ7M7.pdf) |
+| Introduction to Neural Networks and PyTorch | IBM | [View](./assets/ibm/Coursera%2062ON4TGSHYYZ.pdf) |
+| Introduction to Deep Learning & Neural Networks with Keras | IBM | [View](./assets/ibm/Coursera%20WK40ZAUFNVZU.pdf) |
 
 ---
 
@@ -31,6 +31,6 @@ This repository serves as a verified portfolio of my professional certifications
 
 | Certificate Name | Issuer | Verification |
 | :--- | :--- | :---: |
-| Docker Training Course for the Absolute Beginner | KodeKloud | [View](./assets/devops/KobeKloud - Docker Training.pdf) |
+| Docker Training Course for the Absolute Beginner | KodeKloud | [View](./assets/devops/KobeKloud%20-%20Docker Training.pdf) |
 
 ---
