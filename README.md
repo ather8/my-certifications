@@ -19,11 +19,11 @@ This repository serves as a verified portfolio of my professional certifications
 
 | Certificate Name | Issuer | Verification |
 | :--- | :--- | :---: |
-| Deep Learning with PyTorch | IBM | [View](./assets/ibm/Coursera%20QFF25B5F803I.pdf) |
 | Machine Learning with Python | IBM | [View](./assets/ibm/Coursera%20WCZCDDFTHVSC.pdf) |
-| Deep Learning with Keras and TensorFlow | IBM | [View](./assets/ibm/Coursera%20ZWMFZU5RQ7M7.pdf) |
 | Introduction to Neural Networks and PyTorch | IBM | [View](./assets/ibm/Coursera%2062ON4TGSHYYZ.pdf) |
+| Deep Learning with Keras and TensorFlow | IBM | [View](./assets/ibm/Coursera%20ZWMFZU5RQ7M7.pdf) |
 | Introduction to Deep Learning & Neural Networks with Keras | IBM | [View](./assets/ibm/Coursera%20WK40ZAUFNVZU.pdf) |
+| Deep Learning with PyTorch | IBM | [View](./assets/ibm/Coursera%20QFF25B5F803I.pdf) |
 
 ---
 
