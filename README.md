@@ -24,9 +24,9 @@ This repository serves as a verified portfolio of my professional certifications
 | Deep Learning with Keras and TensorFlow | IBM | [View](./assets/ibm/Coursera%20ZWMFZU5RQ7M7.pdf) |
 | Introduction to Deep Learning & Neural Networks with Keras | IBM | [View](./assets/ibm/Coursera%20WK40ZAUFNVZU.pdf) |
 | Deep Learning with PyTorch | IBM | [View](./assets/ibm/Coursera%20QFF25B5F803I.pdf) |
-| AI Capstone Project with Deep Learning | IBM | [View](./assets/ibm/Coursera%2KPR40KM1EYI.pdf) |
-| Generative AI and LLMs: Architecture and Data Preparation | IBM | [View](./assets/ibm/Coursera%DS4EY4UONHTL.pdf) |
-| Gen AI Foundational Models for NLP & Language Understanding | IBM | [View](./assets/ibm/Coursera%CQUX8QFHP1KV.pdf) |
+| AI Capstone Project with Deep Learning | IBM | [View](./assets/ibm/Coursera%202KPR40KM1EYI.pdf) |
+| Generative AI and LLMs: Architecture and Data Preparation | IBM | [View](./assets/ibm/Coursera%20DS4EY4UONHTL.pdf) |
+| Gen AI Foundational Models for NLP & Language Understanding | IBM | [View](./assets/ibm/Coursera%20CQUX8QFHP1KV.pdf) |
 ---
 
 ### 🐳 DevOps & Cloud Infrastructure
